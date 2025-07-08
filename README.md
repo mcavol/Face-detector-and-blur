@@ -20,5 +20,7 @@ A simple Python application that uses a graphical interface to detect or blur fa
 - Python 3.7 or newer
 - Tkinter (usually included with standard Python installations)
 - OpenCV  
-- MediaPipe  
+- MediaPipe
+  
+![example](https://github.com/user-attachments/assets/c96ee4a0-7a31-4297-997c-d3135d4aa772)
 
