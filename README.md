@@ -22,11 +22,3 @@ A simple Python application that uses a graphical interface to detect or blur fa
 - OpenCV  
 - MediaPipe  
 
----
-
-## Installation
-
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/face-detect-blur.git
-   cd face-detect-blur
