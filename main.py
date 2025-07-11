@@ -157,7 +157,7 @@ tk.Label(root, text="Choose regime:", font=("Arial",24)).pack(pady=16)
 btn_detect = tk.Button(root, text="Detect",
                        width=48,
                        command=lambda: on_regime_choice("Detect"))
-btn_detect.pack(pady=5)
+btn_detect.pack(pady=10)
 
 btn_blur = tk.Button(root, text="Blur",
                      width=48,
